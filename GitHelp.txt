@@ -12,3 +12,5 @@
 2) git add .                 | Добавление файлов в буфер обмена
 3) git commit -m "lesson1"   | сохранение всего из буфера обмена
 4) git push origin master или main  | Отправка изменений в репозитории
+
+This Main
