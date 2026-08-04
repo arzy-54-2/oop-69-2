@@ -5,7 +5,7 @@ class Hero:
         self.name = name
         self.lvl = lvl
         self.hp = hp
-
+    # Методы класса
     def action(self):
         print(f"{self.name} this my base action !!")
 
