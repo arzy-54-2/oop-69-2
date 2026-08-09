@@ -20,3 +20,19 @@
 8) git switch -c  name_new_branch       | для для создание новой ветки и перехода на нее
 9) git restore . или путь к файлу       | Для того чтобы откатить изменения до последнего коммита
 10) git reset . или путь к файлу        | Для того что бы убрать из буфера обмена после команды git add
+11) git clone link
+
+production
+
+release-0.0.1
+
+test|stage
+
+develop
+
+feat/register
+
+"feat: register added #123"
+"fix: register bag #321"
+"hot-fix: register bag #321"
+"update: register logic #321"
