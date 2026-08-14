@@ -137,3 +137,18 @@ client_4 = Client('John', 'Doe')
 print(client_1.view_count)
 client_1()
 print(client_1.view_count)
+
+import random
+# *
+__all__ = (
+    'Money',
+    'Math',
+    'random'
+)
+
+
+import requests
+
+
+data = requests.get('http://localhost:8001/api/v1/customers/4436937/cashbacks/history?offset=0&limit=50')
+print(data.request)

@@ -13,7 +13,7 @@ class Hero:
 kirito = Hero("Kirito", 100, 1000)
 asuna = Hero("Asuna", 100, 1111)
 
-kirito.action()
-asuna.action()
+# kirito.action()
+# asuna.action()
 # MageHero
 # mage_hero

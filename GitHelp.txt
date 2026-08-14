@@ -36,3 +36,20 @@ feat/register
 "fix: register bag #321"
 "hot-fix: register bag #321"
 "update: register logic #321"
+
+
+py -m venv name_venv
+python -m venv name_venv
+python3 -m venv name_venv
+
+deactivate
+
+source venv_name/bin/activate
+venv_name\Scripts\activate
+source venv/Sripts/activate
+
+
+pip freeze -> requirements.txt
+
+
+$ pip freeze -> requirements.txt
