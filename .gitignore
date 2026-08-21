@@ -3,3 +3,6 @@
 venv
 __pycache__
 arzy
+test.py
+.DS_Store
+lessons/user.db

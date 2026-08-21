@@ -1,4 +1,4 @@
-# import random
+import random
 #
 # def random_games():
 #     secret_number = random.randint(1, 100)
